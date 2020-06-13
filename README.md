@@ -6,8 +6,8 @@ What we know so far (assuming we're converting from English to Braille):-
   -We have 8 ASCII Binary equivalent inputs 
   -We have 6 Braille code outputs
 
-Members:
-Arush Sharma
-Vamsi Chandra Thota
-Karthik Reddy
-Naveen Kumar Katna
+Members:<br>
+Arush Sharma<br>
+Vamsi Chandra Thota<br>
+Karthik Reddy<br>
+Naveen Kumar Katna<br>
