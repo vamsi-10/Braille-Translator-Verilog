@@ -4,8 +4,8 @@ For ECN-104 DLD project
 Guys let's start with all we know.
 What we know so far (assuming we're converting from English to Braille):-
   
-  <br>-We have 6 Braille code outputs
-  <br>-We have 8 ASCII Binary equivalent inputs 
+  <br>-We have 6 bit Braille code inputs
+  <br>-We have 8 ASCII Binary equivalent inputs displayed on two LED's with a range of 65 to 90
   
 
 Members:<br>
