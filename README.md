@@ -10,6 +10,6 @@ What we know so far (we're converting from Braille to ASCII):-
 
 Members:<br>
 Arush Sharma<br>
-Vamsi Chandra<br>
+Vamsi Chandra Thota<br>
 Karthik Reddy<br>
 Naveen Kumar Katna
